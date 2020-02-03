@@ -1,7 +1,5 @@
 - name: Home
   link: /
-- name: News
-  link: /blog/
 - name: Registration
   link: /registration/
 - name: Speakers
@@ -12,5 +10,3 @@
   link: /venue/
 - name: Organizers and contacts
   link: /organizers/
-#- name: Contact
-#  link: /contact/
