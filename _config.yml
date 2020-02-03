@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: New Trends in Complex Quantum Systems Dynamics
-url: "https://cqs19.com"
-baseurl: #"/cqs19"
-google_analytics_key: "UA-126848811-1"
+title: "Title of the workshop or conference"
+url: "https://workshop.or.conference.website"
+baseurl: #"/baseurl"
+google_analytics_key: ""
 google_maps_javascript_api_key:
 disqus_shortname:
 
